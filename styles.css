@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+
+* {
+    font-family: 'Hi Melody', cursive;
+}
+body{
+    margin: 0;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+}
+
+ textarea,div{
+    display: block;
+    border: 1px solid black;
+    padding: 2rem 2rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    height: 100px;
+    width: 300px;
+    font-size: 2rem;
+}
+
+
+button{
+    border: none;
+    color: black;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    background-color: yellowgreen;
+}
+
+img{
+    height: 100%;
+    width: 50%;
+}
+
+header,footer{
+    margin: 0;
+    padding: 1rem 2rem;
+    background-color: yellowgreen;
+} 
+
+p{
+    padding: 0 2rem;
+}
+
